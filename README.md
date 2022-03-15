@@ -13,7 +13,10 @@
 | <img src="Profiles pictures/GiovanniQuintal.jpg" width="75"> | [Giovanni Jesus Quintal LLanes](https://github.com/GiovanniQuintal)
 
 # Project :memo:
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eget mollis nisi. Integer rutrum fermentum ultricies. Aliquam a dui tempus, hendrerit neque et, fermentum mi. Fusce tristique purus nec venenatis fermentum. Integer tristique sed massa et volutpat. 
+Our proposal is a system which helps to generate habits that can prevent or guide teenager to improve the life style and handling true information. 
+
+> ## [Elevator speach](https://youtu.be/L76dXX4eIUI) :arrow_up: :speech_balloon:
+
 
 ## Index :clipboard:
 
