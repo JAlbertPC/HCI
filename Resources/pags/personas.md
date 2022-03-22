@@ -25,7 +25,7 @@
 
 # Personas
 ### Persona 1
-<img src="First-Delivery/imgs/persona1.png">
+<img src="../../First-Delivery/imgs/persona1.png">
 
 ### Persona 2
-<img src="First-Delivery/imgs/persona2.png"> 
+<img src="../../First-Delivery/imgs/persona2.png">
