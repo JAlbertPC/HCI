@@ -21,9 +21,9 @@ Our proposal is a system which helps to generate habits that can prevent or guid
 ## Index :clipboard:
 
 * [Users]()
-    * [Project definition](./First-Delivery/docs/Definicion_del_proyecto.pdf)
-    * [Project plan](./First-Delivery/docs/Project_plan.pdf)
-    * [Personas](./First-Delivery/docs/pags/personas.md)
-    * [Requerimientos](./First-Delivery/docs/Requirements.pdf)
+    * [Project definition](./Resources/docs/Definicion_del_proyecto.pdf)
+    * [Project plan](./Resources/docs/Project_plan.pdf)
+    * [Personas](./Resources/docs/pags/personas.md)
+    * [Requirements](./Resources/docs/Requirements.pdf)
 * [Prototypes]()
 * [Testing]()
