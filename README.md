@@ -25,5 +25,6 @@ Our proposal is a system which helps to generate habits that can prevent or guid
     * [Project plan](./Resources/docs/Project_plan.pdf)
     * [Personas](./Resources/docs/pags/personas.md)
     * [Requirements](./Resources/docs/Requirements.pdf)
-* [Prototypes]()
+* [Prototypes](https://www.figma.com/file/n2tGqyWNZ1ZzVXvyFRU6gD/HCI?node-id=186%3A15)
 * [Testing]()
+* >[Artifacts](./Resources/docs/pags/artifacts.md)
