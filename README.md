@@ -20,11 +20,23 @@ Our proposal is a system which helps to generate habits that can prevent or guid
 
 ## Index :clipboard:
 
-* [Users]()
+* [Users](#)
     * [Project definition](./Resources/docs/Definicion_del_proyecto.pdf)
     * [Project plan](./Resources/docs/Project_plan.pdf)
     * [Personas](./Resources/docs/pags/personas.md)
     * [Requirements](./Resources/docs/Requirements.pdf)
 * [Prototypes](https://www.figma.com/file/n2tGqyWNZ1ZzVXvyFRU6gD/HCI?node-id=186%3A15)
 * [Testing]()
+    * [Usability Testing Protocol](./Resources/docs/testing/usability_testing_protocol.pdf)
+    * [Usability Test Result](./Resources/docs/testing/usability_test_result.pdf)
+    * [Results Testing Template](./Resources/docs/testing/results_testing_template.pdf)
+    * [Analysis of the Information](./Resources/docs/testing/analysis_of_the_information.pdf)
+---
 * >[Artifacts](./Resources/docs/pags/artifacts.md)
+
+---
+## Project Contribution
+[Planner](https://tasks.office.com/alumnos.uady.mx/Home/PlanViews/qoI8X5ntPkya3scLROEdMWQAESO3?Type=PlanLink&Channel=Link&CreatedTime=637890595901600000) , here you can find the plan we work with
+
+<img src="Resources/imgs/participation_state_priority.png" width="90%"> 
+<img src="Resources/imgs/participation.png" width="90%"> 
