@@ -40,3 +40,18 @@ Our proposal is a system which helps to generate habits that can prevent or guid
 
 <img src="Resources/imgs/participation_state_priority.png" width="90%"> 
 <img src="Resources/imgs/participation.png" width="90%"> 
+
+## Project Deliveries
+* [First Delivery] 
+https://youtu.be/kqRk5X8IKmU
+
+* [Second Delivery] 
+Video: https://youtu.be/ynl80uIL8Co
+Prototypes: https://www.figma.com/file/n2tGqyWNZ1ZzVXvyFRU6gD/HCI?node-id=15%3A1291
+Documentation: https://docs.google.com/document/d/1yd1kO1K5XGbKICt4yxxyOLVXAqDWo9yCIA1crRZH-Is/edit#heading=h.x35tlvxy3km
+
+* [Last Delivery] 
+Usability test protocol: https://docs.google.com/document/d/1DrP4Gjuqkxe0efHBb0rH4Jq0hJ6UidePG1Fouivjeec/edit?usp=sharing
+Results: https://docs.google.com/document/d/15LErGjBkirLhzB0fiRqvnkTWHa0j7ZaorCuA8WVF25Y/edit
+Learned lessons: https://docs.google.com/document/d/1LpjGktuPZXEMlD4bAqMsSa05pp7XQJBwTKuaov6uU4Y/edit
+Analysis of the information: https://docs.google.com/document/d/1pEDDkpyFuxOp-il3wuLPsSaF9YUL7Ex-hJbiHMQHzCY/edit
