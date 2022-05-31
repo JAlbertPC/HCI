@@ -41,11 +41,11 @@ Our proposal is a system which helps to generate habits that can prevent or guid
 <img src="Resources/imgs/participation_state_priority.png" width="90%"> 
 <img src="Resources/imgs/participation.png" width="90%"> 
 
-|José Alberto Polanco Cervera - 20% 
-|Cristopher Xavier Ceballos Guillermo - 21% 
-|Pamela Citlali Canul Chacon - 21%
-|Giovanni Jesus Quintal LLanes - 19% 
-|Daniel Salvador Amaya Tapia - 19%
+José Alberto Polanco Cervera - 20%                                                                                                                                     
+Cristopher Xavier Ceballos Guillermo - 21%                                                                                                                           
+Pamela Citlali Canul Chacon - 21%                                      
+Giovanni Jesus Quintal LLanes - 19% 
+Daniel Salvador Amaya Tapia - 19%
 
 ## Project Deliveries
 * [First Delivery] 
