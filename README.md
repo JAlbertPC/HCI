@@ -41,6 +41,12 @@ Our proposal is a system which helps to generate habits that can prevent or guid
 <img src="Resources/imgs/participation_state_priority.png" width="90%"> 
 <img src="Resources/imgs/participation.png" width="90%"> 
 
+Alberto - 20% 
+Xavi - 21% 
+Pamela - 21%
+Guiovanni - 19% 
+Daniel 19%
+
 ## Project Deliveries
 * [First Delivery] 
 https://youtu.be/kqRk5X8IKmU
